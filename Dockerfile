@@ -1,1 +1,1 @@
-from gcr.io/google_containers/pause-amd64:3.1
+from gcr.io/google_containers/coredns:1.3.1
